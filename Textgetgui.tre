@@ -1,0 +1,7 @@
+PAGE
+    Toplevel: Refiner
+        Frame: Frame1  
+            Button: Button1   bind: <Button-1> to {lambda e: Translate(e)}
+        Listbox: Listbox1  
+        Menu Bar
+
